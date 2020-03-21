@@ -25,7 +25,7 @@ export default function Pop({route, navigation}) {
 
                 <View style={{marginHorizontal: 16}}>
                     <View style={{marginTop: 80}}>
-                        <Text style={{color: 'white', fontSize: 45, fontWeight: 'bold'}}>Whate do wine grapes taste like?</Text>
+                        <Text style={{color: 'white', fontSize: 45, fontWeight: 'bold'}}>What do wine grapes taste like?</Text>
                         <Text style={{marginTop: 10,  color: '#7f8c8d', fontSize: 16}}>Written by Dan Ho, 14.01.2020</Text>
 
                         <Text style={{marginTop: 50, color: '#bdc3c7', fontSize: 15,}}>
@@ -39,7 +39,7 @@ export default function Pop({route, navigation}) {
                         </Text>
                     </View>
 
-                    <View style={{alignItems: 'center', marginTop: 20}}>
+                    <View style={{alignItems: 'center', marginTop: 40}}>
                         <TouchableOpacity
                             style={{
                             margin: 5,
