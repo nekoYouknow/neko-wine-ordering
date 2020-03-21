@@ -43,9 +43,9 @@ React Native with Expo, Front UI
 ![](./captures/designedby.png)
 
 ## Result Captures
-|Hoeme|Home|Detail|Pop|
-|:---:|:---:|:---:|:---:|
-[![](./captures/00.png)|![](./captures/01.png)|![](./captures/02.png)|![](./captures/03.png)|]
+|Home|Detail|Pop|
+|:---:|:---:|:---:|
+|![](./captures/00.png)|![](./captures/02.png)|![](./captures/03.png)|
 
 
 
